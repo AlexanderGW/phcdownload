@@ -1,0 +1,57 @@
+/*
+################################################################################
+# PHCDownload (version 1.1.1) - Document Management & Manipulation System
+################################################################################
+# Copyright (c) 2005 - 2008 developed by Alex Gailey-White @ www.phpcredo.com
+# PHCDownload is free to use. Please visit the website for further licence
+# information and details on re-distribution and use.
+################################################################################
+*/
+
+#progress_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #ffffff;
+}
+
+#progress_window {
+	display: block;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	right: auto;
+	background: #666666;
+	padding: 5px;
+	text-align: center;
+}
+
+#progress_container {
+	border: 1px solid #000;
+	background-color: #fff;
+	padding: 4px;
+}
+
+#progress_bar {
+	background-color: #ff33ff;
+	width: 1px;
+}
+
+.title_padding {
+	margin: 0;
+	padding: 4px;
+}
+
+.bar_container {
+	background: #666666;
+}
+
+.bar_block {
+	background: #33cc00;
+	display: block;
+	float: left;
+}
+
+.bar_block_inner {
+	margin: 4px;
+}
+
