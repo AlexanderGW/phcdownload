@@ -1,6 +1,6 @@
 # PHCDownload v1.1.2 (Manual installation)
 
-##### Originally released in March 2009 - Thought I'd share the last release of my first ever project, almost 10 years to the day.
+##### Originally released in 2008 - Thought I'd share the last release of my first ever project.
 ##### Given the age of this project, I wouldn't reccomend using it for anything important! Strictly no warranty here!
 
 Only use this method if you have not been able to install using
